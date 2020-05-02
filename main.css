@@ -1,0 +1,24 @@
+.football {
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.field {
+    height: 100vh;
+    border-radius: 10px;
+}
+
+.ball {
+    position: absolute;
+    top: 0vh;
+    left: 0vh;
+    height: 10vh;
+}
+
+.score {
+    position: absolute;
+    left: 76vh;
+    color: white;
+    font-size: 20vh;
+}
